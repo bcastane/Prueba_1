@@ -1,0 +1,53 @@
+.centrado{
+	text-align:center;
+	
+}
+
+.fijo{
+
+	position:fixed;
+	bottom:0;
+}
+
+.foot{
+
+	width:100%;
+	background:#F05F40;
+	text-align:center;
+	color:white;
+	   padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.break_section{
+
+	height:20px;
+	background:#F05F40;
+	border:solid 1px white;
+	width:100%;
+	  margin-bottom: 20px;
+}
+
+.relativo{
+	position:relative;
+}
+.absoluta_abajo{
+	position:absolute;
+	bottom:0px;
+	color:white;
+	background:#F05F40;
+	padding:5px;
+}
+
+.iconos{
+	font-size:44px;
+	color:#F05F40;
+
+
+}
+
+.flota_foto{
+	float:left;
+	padding:10px;
+	min-width:300px;
+}
